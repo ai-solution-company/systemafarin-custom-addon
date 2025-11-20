@@ -242,3 +242,44 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+    {
+        "doctype": "Custom Field",
+        "filters": {
+            "dt": ["in", ["Customer"]],
+            "fieldname": ["in", ["test_iran_core_invoice"]]
+        }
+    },
+    {
+        "doctype": "Property Setter",
+        "filters": {
+            "doc_type": ["in", ["Customer"]],
+            "field_name": ["in", ["territory"]],
+            "property": ["in", ["hidden"]]
+        }
+    }
+]
+
+# ---------- BACKEND HOOKS ----------
+doc_events = {
+    "Sales Invoice": {
+        "on_submit": "iran_core.api.on_sales_invoice_submit",
+        "on_cancel": "iran_core.api.on_sales_invoice_cancel",
+    }
+}
+
+# ---------- FRONTEND / JS ----------
+doctype_js = {
+    "Sales Invoice": "public/js/sales_invoice.js"
+}
+
+
+# --------- FONTS ------------
+app_include_css = [
+    "/assets/iran_core/css/custom_font.css"
+]
+
+web_include_css = [
+    "/assets/iran_core/css/custom_font.css"
+]
+
