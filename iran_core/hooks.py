@@ -269,9 +269,7 @@ doc_events = {
 }
 
 # ---------- FRONTEND / JS ----------
-doctype_js = {
-    "Sales Invoice": "public/js/sales_invoice.js"
-}
+
 
 
 # --------- FONTS ------------
@@ -280,6 +278,6 @@ app_include_css = [
 ]
 
 web_include_css = [
-    "/assets/iran_core/css/custom_font.css"
+    "/assets/iran_core/css/custom_font.css",
 ]
 
