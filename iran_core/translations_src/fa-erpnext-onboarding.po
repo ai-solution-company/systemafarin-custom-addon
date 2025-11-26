@@ -1,0 +1,1080 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: erpnext-onboarding\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Persian\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_an_item/create_an_item.json:title
+#: apps/erpnext/erpnext/setup/module_onboarding/home/home.json:step
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/create_product/create_product.json:action_label
+#: apps/erpnext/erpnext/stock/onboarding_step/create_an_item/create_an_item.json:title
+msgid "Create an Item"
+msgstr "ایجاد آیتم"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_an_item/create_an_item.json:description
+msgid ""
+"# Create an Item\n"
+"\n"
+"Item is a product or a service offered by your company, or something you buy as a part of your supplies or raw materials.\n"
+"\n"
+"Items are integral to everything you do in ERPNext - from billing, purchasing to managing inventory. Everything you buy or sell, whether it is a physical product or a service is an Item. Items can be stock, non-stock, variants, serialized, batched, assets, etc.\n"
+msgstr "# ایجاد آیتم"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_an_item/create_an_item.json:action_label
+msgid "Create a new Item"
+msgstr "ایجاد آیتم جدید"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_your_first_sales_invoice/create_your_first_sales_invoice.json:title
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_your_first_sales_invoice/create_your_first_sales_invoice.json:title
+msgid "Create Your First Sales Invoice "
+msgstr "اولین فاکتور فروش خود را ایجاد کنید"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_your_first_sales_invoice/create_your_first_sales_invoice.json:description
+msgid ""
+"# All about sales invoice\n"
+"\n"
+"A Sales Invoice is a bill that you send to your Customers against which the Customer makes the payment. Sales Invoice is an accounting transaction. On submission of Sales Invoice, the system updates the receivable and books income against a Customer Account."
+msgstr "# همه چیز درباره فاکتور فروش"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_a_supplier/create_a_supplier.json:title
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_a_supplier/create_a_supplier.json:title
+#: apps/erpnext/erpnext/stock/onboarding_step/create_a_supplier/create_a_supplier.json:title
+#: apps/erpnext/erpnext/buying/onboarding_step/create_a_supplier/create_a_supplier.json:title
+msgid "Create a Supplier"
+msgstr "ایجاد تأمین‌کننده"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_a_supplier/create_a_supplier.json:description
+msgid ""
+"# Create a Supplier\n"
+"\n"
+"Also known as Vendor, is a master at the center of your purchase transactions. Suppliers are linked in Request for Quotation, Purchase Orders, Receipts, and Payments. Suppliers can be either numbered or identified by name.\n"
+"\n"
+"Through Supplier’s master, you can effectively track essentials like:\n"
+" - Supplier’s multiple address and contacts\n"
+" - Account Receivables\n"
+" - Credit Limit and Credit Period\n"
+msgstr "# ایجاد تأمین‌کننده"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_a_supplier/create_a_supplier.json:action_label
+msgid "Let’s create your first Supplier"
+msgstr "بیایید اولین تأمین‌کننده خود را ایجاد کنیم"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/data_import/data_import.json:title
+msgid "Import Data from Spreadsheet"
+msgstr "وارد کردن داده از صفحه گسترده"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/data_import/data_import.json:description
+msgid ""
+"# Import Data from Spreadsheet\n"
+"\n"
+"In ERPNext, you can easily migrate your historical data using spreadsheets. You can use it for migrating not just masters (like Customer, Supplier, Items), but also for transactions like (outstanding invoices, opening stock and accounting entries, etc)."
+msgstr "# وارد کردن داده از صفحه گسترده"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/data_import/data_import.json:action_label
+msgid "Learn more about data migration"
+msgstr "درباره انتقال داده بیشتر بدانید"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/navigation_help/navigation_help.json:title
+msgid "How to Navigate in ERPNext"
+msgstr "چگونه در ERPNext پیمایش کنیم"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/navigation_help/navigation_help.json:description
+msgid ""
+"# Navigation in ERPNext\n"
+"\n"
+"Ease of navigating and browsing around the ERPNext is one of our core strengths. In the following video, you will learn how to reach a specific feature in ERPNext via module page or AwesomeBar."
+msgstr "# پیمایش در ERPNext"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/navigation_help/navigation_help.json:action_label
+msgid "Learn about  Navigation options"
+msgstr "درباره گزینه‌های پیمایش بیشتر بدانید"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_a_quotation/create_a_quotation.json:title
+msgid "Create your first Quotation"
+msgstr "اولین پیش‌فاکتور خود را ایجاد کنید"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_a_quotation/create_a_quotation.json:description
+msgid ""
+"# Create a Quotation\n"
+"\n"
+"Let’s get started with business transactions by creating your first Quotation. You can create a Quotation for an existing customer or a prospect. It will be an approved document, with items you sell and the proposed price + taxes applied. After completing the instructions, you will get a Quotation in a ready to share print format."
+msgstr "# ایجاد پیش‌فاکتور"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_a_quotation/create_a_quotation.json:action_label
+msgid "Let’s create your first Quotation"
+msgstr "بیایید اولین پیش‌فاکتور خود را ایجاد کنیم"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/company_set_up/company_set_up.json:title
+msgid "Set Up a Company"
+msgstr "راه‌اندازی یک شرکت"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/company_set_up/company_set_up.json:description
+msgid ""
+"# Set Up a Company\n"
+"\n"
+"A company is a legal entity for which you will set up your books of account and create accounting transactions. In ERPNext, you can create multiple companies, and establish relationships (group/subsidiary) among them.\n"
+"\n"
+"Within the company master, you can capture various default accounts for that Company and set crucial settings related to the accounting methodology followed for a company.\n"
+msgstr "# راه‌اندازی یک شرکت"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/company_set_up/company_set_up.json:action_label
+msgid "Let's review your Company"
+msgstr "بیایید شرکت شما را بررسی کنیم"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/letterhead/letterhead.json:title
+msgid "Setup Your Letterhead"
+msgstr "سربرگ خود را تنظیم کنید"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/letterhead/letterhead.json:description
+msgid ""
+"# Create a Letter Head\n"
+"\n"
+"A Letter Head contains your organization's name, logo, address, etc which appears at the header and footer portion in documents. You can learn more about Setting up Letter Head in ERPNext here.\n"
+msgstr "# ایجاد سربرگ"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/letterhead/letterhead.json:action_label
+msgid "Let’s setup your first Letter Head"
+msgstr "بیایید اولین سربرگ خود را تنظیم کنیم"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_a_customer/create_a_customer.json:title
+#: apps/erpnext/erpnext/setup/module_onboarding/home/home.json:step
+#: apps/erpnext/erpnext/selling/onboarding_step/create_a_customer/create_a_customer.json:title
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_a_customer/create_a_customer.json:title
+msgid "Create a Customer"
+msgstr "ایجاد مشتری"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_a_customer/create_a_customer.json:description
+msgid ""
+"# Create a Customer\n"
+"\n"
+"The Customer master is at the heart of your sales transactions. Customers are linked in Quotations, Sales Orders, Invoices, and Payments. Customers can be either numbered or identified by name (you would typically do this based on the number of customers you have).\n"
+"\n"
+"Through Customer’s master, you can effectively track essentials like:\n"
+" - Customer’s multiple address and contacts\n"
+" - Account Receivables\n"
+" - Credit Limit and Credit Period\n"
+msgstr "# ایجاد مشتری"
+
+#: apps/erpnext/erpnext/setup/onboarding_step/create_a_customer/create_a_customer.json:action_label
+msgid "Let’s create your first Customer"
+msgstr "بیایید اولین مشتری خود را ایجاد کنیم"
+
+#: apps/erpnext/erpnext/setup/module_onboarding/home/home.json:title
+msgid "Let's begin your journey with ERPNext"
+msgstr "بیایید سفر خود را با ERPNext آغاز کنیم"
+
+#: apps/erpnext/erpnext/setup/module_onboarding/home/home.json:subtitle
+msgid "Item, Customer, Supplier and Quotation"
+msgstr "آیتم، مشتری، تأمین‌کننده و پیش‌فاکتور"
+
+#: apps/erpnext/erpnext/setup/module_onboarding/home/home.json:success_message
+msgid "You're ready to start your journey with ERPNext"
+msgstr "شما آماده‌اید تا سفر خود را با ERPNext آغاز کنید"
+
+#: apps/erpnext/erpnext/setup/module_onboarding/home/home.json:step
+msgid "Create Your First Sales Invoice"
+msgstr "اولین فاکتور فروش خود را ایجاد کنید"
+
+#: apps/erpnext/erpnext/crm/onboarding_step/create_lead/create_lead.json:title
+#: apps/erpnext/erpnext/crm/module_onboarding/crm/crm.json:step
+msgid "Create Lead"
+msgstr "ایجاد سرنخ"
+
+#: apps/erpnext/erpnext/crm/onboarding_step/introduction_to_crm/introduction_to_crm.json:title
+#: apps/erpnext/erpnext/crm/module_onboarding/crm/crm.json:step
+msgid "Introduction to CRM"
+msgstr "مقدمه‌ای بر CRM"
+
+#: apps/erpnext/erpnext/crm/onboarding_step/create_opportunity/create_opportunity.json:title
+#: apps/erpnext/erpnext/crm/module_onboarding/crm/crm.json:step
+msgid "Create Opportunity"
+msgstr "ایجاد فرصت"
+
+#: apps/erpnext/erpnext/crm/onboarding_step/create_and_send_quotation/create_and_send_quotation.json:title
+#: apps/erpnext/erpnext/crm/module_onboarding/crm/crm.json:step
+msgid "Create and Send Quotation"
+msgstr "ایجاد و ارسال پیش‌فاکتور"
+
+#: apps/erpnext/erpnext/crm/onboarding_step/crm_settings/crm_settings.json:title
+#: apps/erpnext/erpnext/crm/module_onboarding/crm/crm.json:step
+msgid "CRM Settings"
+msgstr "تنظیمات CRM"
+
+#: apps/erpnext/erpnext/crm/onboarding_step/crm_settings/crm_settings.json:description
+msgid ""
+"# CRM Settings\n"
+"\n"
+"CRM module’s features are configurable as per your business needs. CRM Settings is the place where you can set your preferences for:\n"
+"- Campaign\n"
+"- Lead\n"
+"- Opportunity\n"
+"- Quotation"
+msgstr "# تنظیمات CRM"
+
+#: apps/erpnext/erpnext/crm/module_onboarding/crm/crm.json:title
+msgid "Let's Set Up Your CRM."
+msgstr "بیایید CRM خود را راه‌اندازی کنیم."
+
+#: apps/erpnext/erpnext/crm/module_onboarding/crm/crm.json:subtitle
+msgid "Lead, Opportunity, Customer, and more."
+msgstr "سرنخ، فرصت، مشتری و موارد دیگر."
+
+#: apps/erpnext/erpnext/crm/module_onboarding/crm/crm.json:success_message
+msgid "The CRM Module is all set up!"
+msgstr "ماژول CRM به طور کامل راه‌اندازی شد!"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/operation/operation.json:title
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:step
+msgid "Operation"
+msgstr "عملیات"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/operation/operation.json:description
+msgid ""
+"# Create Operations\n"
+"\n"
+"An Operation refers to any manufacturing operation performed on the raw materials to process it further in the manufacturing path. As an example, if you are into garments manufacturing, you will create Operations like fabric cutting, stitching, and washing as some of the operations."
+msgstr "# ایجاد عملیات"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/operation/operation.json:action_label
+msgid "Let’s create an Operation"
+msgstr "بیایید یک عملیات ایجاد کنیم."
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/explore_manufacturing_settings/explore_manufacturing_settings.json:title
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/introduction_to_manufacturing/introduction_to_manufacturing.json:title
+msgid "Manufacturing Settings"
+msgstr "تنظیمات تولید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/explore_manufacturing_settings/explore_manufacturing_settings.json:description
+msgid ""
+"# Review Manufacturing Settings\n"
+"\n"
+"In ERPNext, the Manufacturing module’s features are configurable as per your business needs. Manufacturing Settings is the place where you can set your preferences for:\n"
+"\n"
+"- Capacity planning for allocating jobs to workstations\n"
+"- Raw-material consumption based on BOM or actual\n"
+"- Default values and over-production allowance\n"
+msgstr "# بررسی تنظیمات تولید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/explore_manufacturing_settings/explore_manufacturing_settings.json:action_label
+msgid "Take a walk-through of Manufacturing Settings"
+msgstr "مروری بر تنظیمات تولید داشته باشید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/create_bom/create_bom.json:title
+msgid "Bill of Materials"
+msgstr "فهرست مواد"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/create_bom/create_bom.json:description
+msgid ""
+"# Create a Bill of Materials\n"
+"\n"
+"A Bill of Materials (BOM) is a list of items and sub-assemblies with quantities required to manufacture an Item.\n"
+"\n"
+"BOM also provides cost estimation for the production of the item. It takes raw-materials cost based on valuation and operations to cost based on routing, which gives total costing for a BOM."
+msgstr "# ایجاد فهرست مواد"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/create_bom/create_bom.json:action_label
+msgid "Create your first Bill of Materials"
+msgstr "اولین فهرست مواد خود را ایجاد کنید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/work_order/work_order.json:title
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:step
+msgid "Work Order"
+msgstr "دستور کار"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/work_order/work_order.json:description
+msgid ""
+"# Create a Work Order\n"
+"\n"
+"A Work Order or a Job order is given to the manufacturing shop floor by the Production Manager to initiate the manufacturing of a certain quantity of an item. Work Order carriers details of production Item, its BOM, quantities to be manufactured, and operations.\n"
+"\n"
+"Through Work Order, you can track various production status like:\n"
+"\n"
+"- Issue of raw-material to shop material\n"
+"- Progress on each Workstation via Job Card\n"
+"- Manufactured Quantity against Work Order\n"
+msgstr "# ایجاد دستور کار"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/work_order/work_order.json:action_label
+msgid "Create your first Work Order"
+msgstr "اولین دستور کار خود را ایجاد کنید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/workstation/workstation.json:title
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:step
+msgid "Workstation"
+msgstr "ایستگاه کاری"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/workstation/workstation.json:description
+msgid ""
+"# Create Workstations\n"
+"\n"
+"A Workstation stores information regarding the place where the workstation operations are performed. As an example, if you have ten sewing machines doing stitching jobs, each machine will be added as a workstation."
+msgstr "# ایجاد ایستگاه‌های کاری"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/workstation/workstation.json:action_label
+msgid "Let’s create a Workstation"
+msgstr "بیایید یک ایستگاه کاری ایجاد کنیم"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/routing/routing.json:title
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:step
+msgid "Routing"
+msgstr "مسیر تولید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/routing/routing.json:description
+msgid ""
+"# Setup Routing\n"
+"\n"
+"A Routing stores all Operations along with the description, hourly rate, operation time, batch size, etc. Click below to learn how the Routing template can be created, for quick selection in the BOM."
+msgstr "# تنظیم مسیر تولید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/routing/routing.json:action_label
+msgid "Check help to setup Routing"
+msgstr "راهنما را برای تنظیم مسیر تولید بررسی کنید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/production_planning/production_planning.json:title
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:step
+msgid "Production Planning"
+msgstr "برنامه‌ریزی تولید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/production_planning/production_planning.json:description
+msgid ""
+"# How Production Planning Works\n"
+"\n"
+"Production Plan helps in production and material planning for the Items planned for manufacturing. These production items can be committed via Sales Order (to Customers) or Material Requests (internally).\n"
+msgstr "# نحوه عملکرد برنامه‌ریزی تولید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/production_planning/production_planning.json:action_label
+msgid "Learn more about Production Planning"
+msgstr "درباره برنامه‌ریزی تولید بیشتر بیاموزید"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/warehouse/warehouse.json:title
+#: apps/erpnext/erpnext/stock/module_onboarding/stock/stock.json:step
+msgid "Create a Warehouse"
+msgstr "ایجاد انبار"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/create_raw_materials/create_raw_materials.json:title
+msgid "Create Raw Materials"
+msgstr "ایجاد مواد اولیه"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/create_product/create_product.json:title
+msgid "Finished Items"
+msgstr "کالاهای ساخته شده"
+
+#: apps/erpnext/erpnext/manufacturing/onboarding_step/create_product/create_product.json:description
+msgid ""
+"# Create Items for Bill of Materials\n"
+"\n"
+"One of the prerequisites of a BOM is the creation of raw materials, sub-assembly, and finished items. Once these items are created, you will be able to proceed to the Bill of Materials master, which is composed of items and routing.\n"
+msgstr "# ایجاد آیتم‌ها برای فهرست مواد"
+
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:title
+msgid "Let's Set Up the Manufacturing Module."
+msgstr "بیایید ماژول تولید را راه‌اندازی کنیم."
+
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:subtitle
+msgid "Products, Raw Materials, BOM, Work Order, and more."
+msgstr "محصولات، مواد اولیه، BOM، دستور کار و موارد دیگر."
+
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:success_message
+msgid "Manufacturing module is all set up!"
+msgstr "ماژول تولید کاملاً راه‌اندازی شد!"
+
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:step
+msgid "Explore Manufacturing Settings"
+msgstr "تنظیمات تولید را کاوش کنید"
+
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:step
+msgid "Create Product"
+msgstr "ایجاد محصول"
+
+#: apps/erpnext/erpnext/manufacturing/module_onboarding/manufacturing/manufacturing.json:step
+msgid "Create BOM"
+msgstr "ایجاد BOM"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/create_a_sales_order/create_a_sales_order.json:title
+msgid "Create a Sales Order"
+msgstr "ایجاد سفارش فروش"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/create_a_sales_order/create_a_sales_order.json:description
+msgid ""
+"A Sales Order is a confirmation of an order from your customer. It is also referred to as Proforma Invoice.\n"
+"\n"
+"Sales Order at the heart of your sales and purchase transactions. Sales Orders are linked in Delivery Note, Sales Invoices, Material Request, and Maintenance transactions. Through Sales Order, you can track fulfillment of the overall deal towards the customer."
+msgstr ""
+"سفارش فروش تأییدیه سفارشی از مشتری شماست. همچنین به آن پیش‌فاکتور نیز گفته "
+"می‌شود."
+
+#: apps/erpnext/erpnext/selling/onboarding_step/create_a_sales_order/create_a_sales_order.json:action_label
+msgid "Create Sales Order"
+msgstr "ایجاد سفارش فروش"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/introduction_to_selling/introduction_to_selling.json:title
+msgid "Introduction to Selling"
+msgstr "مقدمه‌ای بر فروش"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/create_a_product/create_a_product.json:title
+#: apps/erpnext/erpnext/stock/onboarding_step/create_a_product/create_a_product.json:title
+#: apps/erpnext/erpnext/buying/onboarding_step/create_a_product/create_a_product.json:title
+msgid "Create a Product"
+msgstr "ایجاد محصول"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/create_a_quotation/create_a_quotation.json:title
+msgid "Create a Quotation"
+msgstr "ایجاد پیش‌فاکتور"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/setup_your_warehouse/setup_your_warehouse.json:title
+#: apps/erpnext/erpnext/stock/onboarding_step/setup_your_warehouse/setup_your_warehouse.json:title
+#: apps/erpnext/erpnext/buying/onboarding_step/setup_your_warehouse/setup_your_warehouse.json:title
+msgid "Set up your Warehouse"
+msgstr "انبار خود را راه‌اندازی کنید"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/selling_settings/selling_settings.json:title
+#: apps/erpnext/erpnext/selling/module_onboarding/selling/selling.json:step
+msgid "Selling Settings"
+msgstr "تنظیمات فروش"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/selling_settings/selling_settings.json:description
+msgid ""
+"# Selling Settings\n"
+"\n"
+"CRM and Selling module’s features are configurable as per your business needs. Selling Settings is the place where you can set your preferences for:\n"
+" - Customer naming and default values\n"
+" - Billing and shipping preference in sales transactions\n"
+msgstr "# تنظیمات فروش"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/selling_settings/selling_settings.json:action_label
+msgid "Let’s walk-through Selling Settings"
+msgstr "بیایید تنظیمات فروش را مرور کنیم"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/sales_order/sales_order.json:title
+#: apps/erpnext/erpnext/selling/module_onboarding/selling/selling.json:step
+msgid "Sales Order"
+msgstr "سفارش فروش"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/sales_order/sales_order.json:description
+msgid ""
+"# Sales Order\n"
+"\n"
+"A Sales Order is a confirmation of an order from your customer. It is also referred to as Proforma Invoice.\n"
+"\n"
+"Sales Order at the heart of your sales and purchase transactions. Sales Orders are linked in Delivery Note, Sales Invoices, Material Request, and Maintenance transactions. Through Sales Order, you can track fulfillment of the overall deal towards the customer."
+msgstr "# سفارش فروش"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/sales_order/sales_order.json:action_label
+msgid "Let’s convert your first Sales Order against a Quotation"
+msgstr "بیایید اولین سفارش فروش خود را بر اساس یک پیش‌فاکتور تبدیل کنیم"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/create_your_first_sales_order/create_your_first_sales_order.json:title
+msgid "Create your first Sales Order"
+msgstr "اولین سفارش فروش خود را ایجاد کنید"
+
+#: apps/erpnext/erpnext/selling/onboarding_step/create_product/create_product.json:title
+msgid "Create a Finished Good"
+msgstr "یک کالای ساخته‌شده ایجاد کنید"
+
+#: apps/erpnext/erpnext/selling/module_onboarding/selling/selling.json:title
+msgid "Let's Set Up the Selling Module."
+msgstr "بیایید ماژول فروش را راه‌اندازی کنیم."
+
+#: apps/erpnext/erpnext/selling/module_onboarding/selling/selling.json:subtitle
+msgid "Products, Sales, Analysis, and more."
+msgstr "محصولات، فروش، تحلیل و موارد دیگر."
+
+#: apps/erpnext/erpnext/selling/module_onboarding/selling/selling.json:success_message
+msgid "The Selling Module is all set up!"
+msgstr "ماژول فروش کاملاً راه‌اندازی شده است!"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_your_first_purchase_invoice/create_your_first_purchase_invoice.json:title
+msgid "Create Your First Purchase Invoice "
+msgstr "اولین فاکتور خرید خود را ایجاد کنید"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_your_first_purchase_invoice/create_your_first_purchase_invoice.json:description
+msgid ""
+"# Create your first Purchase Invoice\n"
+"\n"
+"A Purchase Invoice is a bill received from a Supplier for a product(s) or service(s) delivery to your company. You can track payables through Purchase Invoice and process Payment Entries against it.\n"
+"\n"
+"Purchase Invoices can also be created against a Purchase Order or Purchase Receipt."
+msgstr "# اولین فاکتور خرید خود را ایجاد کنید"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_your_first_purchase_invoice/create_your_first_purchase_invoice.json:action_label
+msgid "Let’s create your first Purchase Invoice"
+msgstr "بیایید اولین فاکتور خرید خود را ایجاد کنیم"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_your_first_sales_invoice/create_your_first_sales_invoice.json:description
+msgid ""
+"# All about sales invoice\n"
+"\n"
+"A Sales Invoice is a bill that you send to your Customers against which the Customer makes the payment. Sales Invoice is an accounting transaction. On submission of Sales Invoice, the system updates the receivable and books income against a Customer Account.\n"
+"\n"
+"Here's the flow of how a sales invoice is generally created\n"
+"\n"
+"\n"
+"![Sales Flow](https://docs.erpnext.com/docs/assets/img/accounts/so-flow.png)"
+msgstr "# همه چیز درباره فاکتور فروش"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/cost_centers_for_report_and_budgeting/cost_centers_for_report_and_budgeting.json:title
+msgid "Cost Centers for Budgeting and Analysis"
+msgstr "مراکز هزینه برای بودجه‌بندی و تحلیل"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/cost_centers_for_report_and_budgeting/cost_centers_for_report_and_budgeting.json:description
+msgid ""
+"# Cost Centers for Budgeting and Analysis\n"
+"\n"
+"While your Books of Accounts are framed to fulfill statutory requirements, you can set up Cost Center and Accounting Dimensions to address your companies reporting and budgeting requirements.\n"
+"\n"
+"Click here to learn more about how  <b>[Cost Center](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/cost-center)</b> and <b> [Dimensions](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-dimensions)</b> allow you to get advanced financial analytics reports from ERPNext."
+msgstr "# مراکز هزینه برای بودجه‌بندی و تحلیل"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/cost_centers_for_report_and_budgeting/cost_centers_for_report_and_budgeting.json:action_label
+msgid "View Cost Center Tree"
+msgstr "مشاهده درخت مراکز هزینه"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_a_supplier/create_a_supplier.json:description
+msgid ""
+"## Who is a Supplier?\n"
+"\n"
+"Suppliers are companies or individuals who provide you with products or services. ERPNext has comprehensive features for purchase cycles. \n"
+"\n"
+"Let's quickly create a supplier with the minimal details required. You need the name of the supplier, assign the supplier to a group, and select the type of the supplier, viz. Company or Individual."
+msgstr "## تأمین‌کننده کیست؟"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/updating_opening_balances/updating_opening_balances.json:title
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:step
+msgid "Updating Opening Balances"
+msgstr "به‌روزرسانی مانده‌های افتتاحیه"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/updating_opening_balances/updating_opening_balances.json:description
+msgid ""
+"# Updating Opening Balances\n"
+"\n"
+"Once you close the financial statement in previous accounting software, you can update the same as opening in your ERPNext's Balance Sheet accounts. This will allow you to get complete financial statements from ERPNext in the coming years, and discontinue the parallel accounting system right away."
+msgstr "# به‌روزرسانی مانده‌های افتتاحیه"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/updating_opening_balances/updating_opening_balances.json:action_label
+msgid "Learn how to update opening balances"
+msgstr "نحوه به‌روزرسانی مانده‌های افتتاحیه را بیاموزید"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/configure_account_settings/configure_account_settings.json:title
+msgid "Configure Account Settings"
+msgstr "پیکربندی تنظیمات حسابداری"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/configure_account_settings/configure_account_settings.json:description
+msgid ""
+"# Account Settings\n"
+"\n"
+"This is a crucial piece of configuration. There are various account settings in ERPNext to restrict and configure actions in the Accounting module.\n"
+"\n"
+"The following settings are avaialble for you to configure\n"
+"\n"
+"1. Account Freezing \n"
+"2. Credit and Overbilling\n"
+"3. Invoicing and Tax Automations\n"
+"4. Balance Sheet configurations\n"
+"\n"
+"There's much more, you can check it all out in this step"
+msgstr "# تنظیمات حسابداری"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/accounts_settings/accounts_settings.json:title
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:step
+msgid "Accounts Settings"
+msgstr "تنظیمات حسابداری"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/accounts_settings/accounts_settings.json:description
+msgid ""
+"# Account Settings\n"
+"\n"
+"In ERPNext, Accounting features are configurable as per your business needs. Accounts Settings is the place to define some of your accounting preferences like:\n"
+"\n"
+" - Credit Limit and over billing settings\n"
+" - Taxation preferences\n"
+" - Deferred accounting preferences\n"
+msgstr "# تنظیمات حسابداری"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/accounts_settings/accounts_settings.json:action_label
+msgid "Take a quick walk-through of Accounts Settings"
+msgstr "یک مرور سریع بر روی تنظیمات حسابداری داشته باشید"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_a_product/create_a_product.json:title
+msgid "Create a Sales Item"
+msgstr "یک آیتم فروش ایجاد کنید"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_a_product/create_a_product.json:description
+msgid ""
+"## Products and Services\n"
+"\n"
+"Depending on the nature of your business, you might be selling products or services to your clients or even both. \n"
+"ERPNext is optimized for itemized management of your sales and purchase.\n"
+"\n"
+"The **Item Master**  is where you can add all your sales items. If you are in services, you can create an Item for each service that you offer. If you run a manufacturing business, the same master is used for keeping a record of raw materials, sub-assemblies etc.\n"
+"\n"
+"Completing the Item Master is very essential for the successful implementation of ERPNext. We have a brief video introducing the item master for you, you can watch it in the next step."
+msgstr "## محصولات و خدمات"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/setup_taxes/setup_taxes.json:title
+msgid "Setting up Taxes"
+msgstr "راه‌اندازی مالیات‌ها"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/setup_taxes/setup_taxes.json:description
+msgid ""
+"# Setting up Taxes\n"
+"\n"
+"ERPNext lets you configure your taxes so that they are automatically applied in your buying and selling transactions. You can configure them globally or even on Items. ERPNext taxes are pre-configured for most regions."
+msgstr "# راه‌اندازی مالیات‌ها"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/setup_taxes/setup_taxes.json:action_label
+msgid "Manage Sales Tax Templates"
+msgstr "مدیریت قالب‌های مالیات فروش"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/create_a_customer/create_a_customer.json:description
+msgid ""
+"## Who is a Customer?\n"
+"\n"
+"A customer, who is sometimes known as a client, buyer, or purchaser is the one who receives goods, services, products, or ideas, from a seller for a monetary consideration.\n"
+"\n"
+"Every customer needs to be assigned a unique id. Customer name itself can be the id or you can set a naming series for ids to be generated in Selling Settings.\n"
+"\n"
+"Just like the supplier, let's quickly create a customer."
+msgstr "## مشتری کیست؟"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/financial_statements/financial_statements.json:title
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:step
+msgid "Financial Statements"
+msgstr "صورت‌های مالی"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/financial_statements/financial_statements.json:description
+msgid ""
+"# Financial Statements\n"
+"\n"
+"In ERPNext, you can get crucial financial reports like [Balance Sheet] and [Profit and Loss] statements with a click of a button. You can run in the report for a different period and plot analytics charts premised on statement data. For more reports, check sections like Financial Statements, General Ledger, and Profitability reports.\n"
+"\n"
+"<b>[Check Accounting reports](https://docs.erpnext.com/docs/v13/user/manual/en/accounts/accounting-reports)</b>"
+msgstr "# صورت‌های مالی"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:title
+msgid "Review Chart of Accounts"
+msgstr "بررسی نمودار حساب‌ها"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:description
+msgid ""
+"# Chart Of Accounts\n"
+"\n"
+"ERPNext sets up a simple chart of accounts for each Company you create, but you can modify it according to business and legal requirements."
+msgstr "# نمودار حساب‌ها"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:action_label
+msgid "Learn more about Chart of Accounts"
+msgstr "بیشتر بیاموزید درباره نمودار حساب‌ها"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:callback_message
+msgid "You can continue with the onboarding after exploring this page"
+msgstr "می‌توانید فرآیند راه‌اندازی اولیه را پس از کاوش این صفحه ادامه دهید"
+
+#: apps/erpnext/erpnext/accounts/onboarding_step/chart_of_accounts/chart_of_accounts.json:callback_title
+msgid "Explore Chart of Accounts"
+msgstr "بررسی نمودار حساب‌ها"
+
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:title
+msgid "Let's Set Up Your Accounts and Taxes."
+msgstr "بیایید حساب‌ها و مالیات‌های شما را راه‌اندازی کنیم."
+
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:subtitle
+msgid "Accounts, Invoices, Taxation, and more."
+msgstr "حساب‌ها، فاکتورها، مالیات و موارد دیگر."
+
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:success_message
+msgid "The Accounts Module is all set up!"
+msgstr "ماژول حسابداری کاملاً راه‌اندازی شده است!"
+
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:step
+msgid "Chart of Accounts"
+msgstr "نمودار حساب‌ها"
+
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:step
+msgid "Setup Taxes"
+msgstr "تنظیم مالیات‌ها"
+
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:step
+msgid "Cost Centers for Report and Budgeting"
+msgstr "مراکز هزینه برای گزارش و بودجه‌بندی"
+
+#: apps/erpnext/erpnext/accounts/module_onboarding/accounts/accounts.json:step
+msgid "Create Your First Purchase Invoice"
+msgstr "اولین فاکتور خرید خود را ایجاد کنید"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/create_an_item/create_an_item.json:description
+msgid ""
+"# Create an Item\n"
+"The Stock module deals with the movement of items.\n"
+"\n"
+"In this step we will create an  [**Item**](https://docs.erpnext.com/docs/user/manual/en/stock/item)."
+msgstr "# ایجاد یک کالا"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/buying_settings/buying_settings.json:title
+#: apps/erpnext/erpnext/buying/onboarding_step/buying_settings/buying_settings.json:title
+msgid "Configure Buying Settings."
+msgstr "تنظیمات خرید را پیکربندی کنید."
+
+#: apps/erpnext/erpnext/stock/onboarding_step/create_a_supplier/create_a_supplier.json:description
+msgid ""
+"# Create a Supplier\n"
+"In this step we will create a **Supplier**. If you have already created a **Supplier** you can skip this step."
+msgstr "# ایجاد یک تأمین‌کننده"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/stock_settings/stock_settings.json:title
+msgid "Review Stock Settings"
+msgstr "بررسی تنظیمات انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/stock_settings/stock_settings.json:description
+msgid ""
+"# Review Stock Settings\n"
+"\n"
+"In ERPNext, the Stock module’s features are configurable as per your business needs. Stock Settings is the place where you can set your preferences for:\n"
+"- Default values for Item and Pricing\n"
+"- Default valuation method for inventory valuation\n"
+"- Set preference for serialization and batching of item\n"
+"- Set tolerance for over-receipt and delivery of items"
+msgstr "# بررسی تنظیمات انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/stock_settings/stock_settings.json:action_label
+msgid "Take a walk through Stock Settings"
+msgstr "مروری بر تنظیمات انبار داشته باشید"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/view_stock_projected_qty/view_stock_projected_qty.json:title
+#: apps/erpnext/erpnext/stock/onboarding_step/view_stock_projected_qty/view_stock_projected_qty.json:action_label
+msgid "Check Stock Projected Qty"
+msgstr "بررسی مقدار پیش‌بینی شده موجودی"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/view_stock_projected_qty/view_stock_projected_qty.json:description
+#: apps/erpnext/erpnext/stock/onboarding_step/check_stock_ledger_report/check_stock_ledger_report.json:description
+msgid ""
+"# Check Stock Reports\n"
+"Based on the various stock transactions, you can get a host of one-click Stock Reports in ERPNext like Stock Ledger, Stock Balance, Projected Quantity, and Ageing analysis."
+msgstr "# بررسی گزارش‌های انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/check_stock_ledger_report/check_stock_ledger_report.json:title
+#: apps/erpnext/erpnext/stock/onboarding_step/check_stock_ledger_report/check_stock_ledger_report.json:action_label
+msgid "Check Stock Ledger"
+msgstr "بررسی دفتر کل انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/introduction_to_stock_entry/introduction_to_stock_entry.json:title
+msgid "Introduction to Stock Entry"
+msgstr "مقدمه‌ای بر سند انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/introduction_to_stock_entry/introduction_to_stock_entry.json:description
+msgid ""
+"# Introduction to Stock Entry\n"
+"This video will give a quick introduction to [**Stock Entry**](https://docs.erpnext.com/docs/user/manual/en/stock/stock-entry)."
+msgstr "# مقدمه‌ای بر سند انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/create_a_stock_entry/create_a_stock_entry.json:title
+msgid "Manage Stock Movements"
+msgstr "مدیریت جابجایی‌های انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/create_a_stock_entry/create_a_stock_entry.json:description
+msgid ""
+"# Manage Stock Movements\n"
+"Stock entry allows you to register the movement of stock for various purposes like transfer, received, issues, repacked, etc. To address issues related to theft and pilferages,  you can always ensure that the movement of goods happens against a document reference Stock Entry in ERPNext.\n"
+"\n"
+"Let’s get a quick walk-through on the various scenarios covered in Stock Entry by watching [*this video*](https://www.youtube.com/watch?v=Njt107hlY3I)."
+msgstr "# مدیریت جابجایی‌های انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/create_a_stock_entry/create_a_stock_entry.json:action_label
+msgid "Create a Material Transfer Entry"
+msgstr "ایجاد سند انتقال کالا"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/create_a_warehouse/create_a_warehouse.json:title
+msgid "Setup a Warehouse"
+msgstr "راه‌اندازی یک انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/create_a_warehouse/create_a_warehouse.json:description
+msgid ""
+"# Setup a Warehouse\n"
+"The warehouse can be your location/godown/store where you maintain the item's inventory, and receive/deliver them to various parties.\n"
+"\n"
+"In ERPNext, you can maintain a Warehouse in the tree structure, so that location and sub-location of an item can be tracked. Also, you can link a Warehouse to a specific Accounting ledger, where the real-time stock value of that warehouse’s item will be reflected."
+msgstr "# راه‌اندازی یک انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/create_a_warehouse/create_a_warehouse.json:action_label
+msgid "Let’s create your first  warehouse "
+msgstr "بیایید اولین انبار خود را ایجاد کنیم"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/view_warehouses/view_warehouses.json:title
+msgid "View Warehouses"
+msgstr "مشاهده انبارها"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/view_warehouses/view_warehouses.json:description
+msgid ""
+"# View Warehouse\n"
+"In ERPNext the term 'warehouse' can be thought of as a storage location.\n"
+"\n"
+"Warehouses are arranged in ERPNext in a tree like structure, where multiple sub-warehouses can be grouped under a single warehouse.\n"
+"\n"
+"In this step we will view the [**Warehouse Tree**](https://docs.erpnext.com/docs/user/manual/en/stock/warehouse#21-tree-view) to view the [**Warehouses**](https://docs.erpnext.com/docs/user/manual/en/stock/warehouse) that are set by default."
+msgstr "# مشاهده انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/stock_opening_balance/stock_opening_balance.json:title
+msgid "Update Stock Opening Balance"
+msgstr "به‌روزرسانی موجودی افتتاحیه انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/stock_opening_balance/stock_opening_balance.json:description
+msgid ""
+"# Update Stock Opening Balance\n"
+"It’s an entry to update the stock balance of an item, in a warehouse, on a date and time you are going live on ERPNext.\n"
+"\n"
+"Once opening stocks are updated, you can create transactions like manufacturing and stock deliveries, where this opening stock will be consumed."
+msgstr "# به‌روزرسانی موجودی افتتاحیه انبار"
+
+#: apps/erpnext/erpnext/stock/onboarding_step/stock_opening_balance/stock_opening_balance.json:action_label
+msgid "Let’s create a stock opening entry"
+msgstr "بیایید یک سند افتتاحیه موجودی ایجاد کنیم"
+
+#: apps/erpnext/erpnext/stock/module_onboarding/stock/stock.json:title
+msgid "Let's Set Up the Stock Module."
+msgstr "بیایید ماژول انبار را راه‌اندازی کنیم."
+
+#: apps/erpnext/erpnext/stock/module_onboarding/stock/stock.json:subtitle
+msgid "Inventory, Warehouses, Analysis, and more."
+msgstr "موجودی، انبارها، تحلیل و موارد دیگر."
+
+#: apps/erpnext/erpnext/stock/module_onboarding/stock/stock.json:success_message
+msgid "The Stock Module is all set up!"
+msgstr "ماژول انبار کاملاً راه‌اندازی شده است!"
+
+#: apps/erpnext/erpnext/stock/module_onboarding/stock/stock.json:step
+msgid "Stock Settings"
+msgstr "تنظیمات انبار"
+
+#: apps/erpnext/erpnext/stock/module_onboarding/stock/stock.json:step
+msgid "Create a Stock Entry"
+msgstr "ایجاد سند انبار"
+
+#: apps/erpnext/erpnext/stock/module_onboarding/stock/stock.json:step
+msgid "Check Stock Ledger Report"
+msgstr "بررسی گزارش دفتر کل انبار"
+
+#: apps/erpnext/erpnext/stock/module_onboarding/stock/stock.json:step
+msgid "Stock Opening Balance"
+msgstr "موجودی افتتاحیه انبار"
+
+#: apps/erpnext/erpnext/buying/onboarding_step/create_your_first_purchase_order/create_your_first_purchase_order.json:title
+msgid "Create first Purchase Order"
+msgstr "اولین سفارش خرید را ایجاد کنید"
+
+#: apps/erpnext/erpnext/buying/onboarding_step/create_your_first_purchase_order/create_your_first_purchase_order.json:description
+msgid ""
+"# Create first Purchase Order\n"
+"\n"
+"Purchase Order is at the heart of your buying transactions. In ERPNext, Purchase Order can can be created against a Purchase Material Request (indent) and Supplier Quotation as well.  Purchase Orders is also linked to Purchase Receipt and Purchase Invoices, allowing you to keep a birds-eye view on your purchase deals.\n"
+"\n"
+msgstr "# اولین سفارش خرید را ایجاد کنید"
+
+#: apps/erpnext/erpnext/buying/onboarding_step/create_your_first_purchase_order/create_your_first_purchase_order.json:action_label
+msgid "Let’s create your first Purchase Order"
+msgstr "بیایید اولین سفارش خرید خود را ایجاد کنیم"
+
+#: apps/erpnext/erpnext/buying/onboarding_step/introduction_to_buying/introduction_to_buying.json:title
+msgid "Buying Settings"
+msgstr "تنظیمات خرید"
+
+#: apps/erpnext/erpnext/buying/onboarding_step/introduction_to_buying/introduction_to_buying.json:description
+msgid ""
+"# Buying Settings\n"
+"\n"
+"\n"
+"Buying module’s features are highly configurable as per your business needs. Buying Settings is the place where you can set your preferences for:\n"
+"\n"
+"- Supplier naming and default values\n"
+"- Billing and shipping preference in buying transactions\n"
+"\n"
+"\n"
+msgstr "# تنظیمات خرید"
+
+#: apps/erpnext/erpnext/buying/onboarding_step/introduction_to_buying/introduction_to_buying.json:action_label
+msgid "Let’s walk-through few Buying Settings"
+msgstr "بیایید مروری بر چند مورد از تنظیمات خرید داشته باشیم"
+
+#: apps/erpnext/erpnext/buying/onboarding_step/create_a_material_request/create_a_material_request.json:title
+msgid "Track Material Request"
+msgstr "ردیابی درخواست مواد"
+
+#: apps/erpnext/erpnext/buying/onboarding_step/create_a_material_request/create_a_material_request.json:description
+msgid ""
+"# Track Material Request\n"
+"\n"
+"\n"
+"Also known as Purchase Request or an Indent, is a document identifying a requirement of a set of items (products or services) for various purposes like procurement, transfer, issue, or manufacturing. Once the Material Request is validated, a purchase manager can take the next actions for purchasing items like requesting RFQ from a supplier or directly placing an order with an identified Supplier.\n"
+"\n"
+msgstr "# پیگیری درخواست مواد"
+
+#: apps/erpnext/erpnext/buying/onboarding_step/create_a_material_request/create_a_material_request.json:action_label
+msgid "Let’s create your first Material Request"
+msgstr "بیایید اولین درخواست مواد خود را ایجاد کنیم."
+
+#: apps/erpnext/erpnext/buying/module_onboarding/buying/buying.json:title
+msgid "Let's Set Up the Buying Module."
+msgstr "بیایید ماژول خرید را راه‌اندازی کنیم."
+
+#: apps/erpnext/erpnext/buying/module_onboarding/buying/buying.json:subtitle
+msgid "Products, Purchases, Analysis, and more."
+msgstr "محصولات، خریدها، تحلیل‌ها و موارد دیگر."
+
+#: apps/erpnext/erpnext/buying/module_onboarding/buying/buying.json:success_message
+msgid "The Buying Module is all set up!"
+msgstr "ماژول خرید با موفقیت راه‌اندازی شد!"
+
+#: apps/erpnext/erpnext/buying/module_onboarding/buying/buying.json:step
+msgid "Introduction to Buying"
+msgstr "مقدمه‌ای بر خرید"
+
+#: apps/erpnext/erpnext/buying/module_onboarding/buying/buying.json:step
+msgid "Create a Material Request"
+msgstr "ایجاد درخواست مواد"
+
+#: apps/erpnext/erpnext/buying/module_onboarding/buying/buying.json:step
+msgid "Create your first Purchase Order"
+msgstr "اولین سفارش خرید خود را ایجاد کنید."
+
+#: apps/erpnext/erpnext/assets/onboarding_step/purchase_an_asset_item/purchase_an_asset_item.json:title
+msgid "Purchase an Asset Item"
+msgstr "خرید یک آیتم دارایی"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/asset_purchase/asset_purchase.json:title
+msgid "Purchase an Asset"
+msgstr "خرید دارایی"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/asset_purchase/asset_purchase.json:description
+msgid ""
+"# Purchase an Asset\n"
+"\n"
+"Assets purchases process if done following the standard Purchase cycle. If capital work in progress is enabled in Asset Category, Asset will be created as soon as Purchase Receipt is created for it. You can quickly create a Purchase Receipt for Asset and see its impact on books of accounts."
+msgstr "# خرید دارایی"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/asset_purchase/asset_purchase.json:action_label
+msgid "Let's create a Purchase Receipt"
+msgstr "بیایید یک رسید خرید ایجاد کنیم."
+
+#: apps/erpnext/erpnext/assets/onboarding_step/fixed_asset_accounts/fixed_asset_accounts.json:title
+msgid "Review Fixed Asset Accounts"
+msgstr "بررسی حساب‌های دارایی ثابت"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/fixed_asset_accounts/fixed_asset_accounts.json:description
+msgid ""
+"# Fixed Asset Accounts\n"
+"\n"
+"With the company, a host of fixed asset accounts are pre-configured. To ensure your asset transactions are leading to correct accounting entries, you can review and set up following asset accounts as per your business  requirements.\n"
+" - Fixed asset accounts (Asset account)\n"
+" - Accumulated depreciation\n"
+" - Capital Work in progress (CWIP) account\n"
+" - Asset Depreciation account (Expense account)"
+msgstr "# حساب‌های دارایی ثابت"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/fixed_asset_accounts/fixed_asset_accounts.json:action_label
+msgid "Let's walk-through Chart of Accounts to review setup"
+msgstr "بیایید نمودار حساب‌ها را برای بررسی تنظیمات مرور کنیم."
+
+#: apps/erpnext/erpnext/assets/onboarding_step/create_a_fixed_asset_item/create_a_fixed_asset_item.json:title
+msgid "Create a Fixed Asset Item"
+msgstr "ایجاد یک آیتم دارایی ثابت"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/introduction_to_assets/introduction_to_assets.json:title
+msgid "Introduction to Assets"
+msgstr "مقدمه‌ای بر دارایی‌ها"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/asset_category/asset_category.json:title
+msgid "Define Asset Category"
+msgstr "تعریف دسته‌بندی دارایی"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/asset_category/asset_category.json:description
+msgid ""
+"# Asset Category\n"
+"\n"
+"An Asset Category classifies different assets of a Company.\n"
+"\n"
+"You can create an Asset Category based on the type of assets. For example, all your desktops and laptops can be part of an Asset Category named \"Electronic Equipments\". Create a separate category for furniture. Also, you can update default properties for each category, like:\n"
+" - Depreciation type and duration\n"
+" - Fixed asset account\n"
+" - Depreciation account\n"
+msgstr "# دسته‌بندی دارایی"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/asset_category/asset_category.json:action_label
+msgid "Let's review existing Asset Category"
+msgstr "بیایید دسته‌بندی دارایی موجود را بررسی کنیم."
+
+#: apps/erpnext/erpnext/assets/onboarding_step/existing_asset/existing_asset.json:title
+msgid "Add an Existing Asset"
+msgstr "افزودن دارایی موجود"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/existing_asset/existing_asset.json:description
+msgid ""
+"# Add an Existing Asset\n"
+"\n"
+"If you are just starting with ERPNext, you will need to enter Assets you already possess. You can add them as existing fixed assets in ERPNext. Please note that you will have to make a Journal Entry separately updating the opening balance in the fixed asset account."
+msgstr "# افزودن دارایی موجود"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/existing_asset/existing_asset.json:action_label
+msgid "Add an existing Asset"
+msgstr "افزودن یک دارایی موجود"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/create_an_asset/create_an_asset.json:title
+msgid "Create an Asset"
+msgstr "ایجاد دارایی"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/asset_item/asset_item.json:title
+msgid "Create an Asset Item"
+msgstr "ایجاد یک آیتم دارایی"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/asset_item/asset_item.json:description
+msgid ""
+"# Asset Item\n"
+"\n"
+"Asset items are created based on Asset Category. You can create one or multiple items against once Asset Category. The sales and purchase transaction for Asset is done via Asset Item. "
+msgstr "# آیتم دارایی"
+
+#: apps/erpnext/erpnext/assets/onboarding_step/asset_item/asset_item.json:action_label
+msgid "Let's create a new Asset item"
+msgstr "بیایید یک آیتم دارایی جدید ایجاد کنیم."
+
+#: apps/erpnext/erpnext/assets/onboarding_step/create_an_asset_category/create_an_asset_category.json:title
+msgid "Create an Asset Category"
+msgstr "ایجاد دسته‌بندی دارایی"
+
+#: apps/erpnext/erpnext/assets/module_onboarding/assets/assets.json:title
+msgid "Let's Set Up the Assets Module."
+msgstr "بیایید ماژول دارایی‌ها را راه‌اندازی کنیم."
+
+#: apps/erpnext/erpnext/assets/module_onboarding/assets/assets.json:subtitle
+msgid "Assets, Depreciations, Repairs, and more."
+msgstr "دارایی‌ها، استهلاک‌ها، تعمیرات و موارد دیگر."
+
+#: apps/erpnext/erpnext/assets/module_onboarding/assets/assets.json:success_message
+msgid "The Assets Module is all set up!"
+msgstr "ماژول دارایی‌ها با موفقیت راه‌اندازی شد!"
+
+#: apps/erpnext/erpnext/assets/module_onboarding/assets/assets.json:step
+msgid "Fixed Asset Accounts"
+msgstr "حساب‌های دارایی ثابت"
+
+#: apps/erpnext/erpnext/assets/module_onboarding/assets/assets.json:step
+msgid "Asset Category"
+msgstr "دسته‌بندی دارایی"
+
+#: apps/erpnext/erpnext/assets/module_onboarding/assets/assets.json:step
+msgid "Asset Item"
+msgstr "آیتم دارایی"
+
+#: apps/erpnext/erpnext/assets/module_onboarding/assets/assets.json:step
+msgid "Asset Purchase"
+msgstr "خرید دارایی"
+
+#: apps/erpnext/erpnext/assets/module_onboarding/assets/assets.json:step
+msgid "Existing Asset"
+msgstr "دارایی موجود"
